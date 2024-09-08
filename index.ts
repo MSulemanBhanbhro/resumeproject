@@ -1,8 +1,8 @@
-var skillsection = document.getElementById("skillsection");
+var skilltoggle = document.getElementById("skilltoggle");
         function toggle() {
-            if (skillsection .style.display === "none") {
-                skillsection.style.display = "block";
+            if (skilltoggle .style.display === "none") {
+                skilltoggle.style.display = "block";
     } else {
-        skillsection.style.display = "none";
+        skilltoggle.style.display = "none";
     }
         }
